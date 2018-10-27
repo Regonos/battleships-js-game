@@ -1,0 +1,9 @@
+table#playerField {
+    border-collapse: collapse;
+}
+
+table#playerField, td.fieldCell  {
+    border: 1px solid black;
+    padding:15px;
+    cursor:pointer;
+}
